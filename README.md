@@ -1,2 +1,2 @@
 # cursogit
- versionando o projeto
+ versionando **o** projeto
